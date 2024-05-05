@@ -1,8 +1,8 @@
-package com.ejercicio3;
+package com.juego;
 
 import java.util.Scanner;
 
-public class Ordenar {
+public class Ahorcado {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String palabraSecreta="javabackend";
